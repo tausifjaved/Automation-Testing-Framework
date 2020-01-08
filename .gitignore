@@ -1,0 +1,15 @@
+target/
+.classpath
+.project
+*.DS_Store
+generated/
+*.iml
+.idea
+.settings/
+.metadata/
+debug.log
+dependency-reduced-pom.xml
+mvn
+Thumbs.db
+
+/profiles.ini
